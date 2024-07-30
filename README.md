@@ -11,6 +11,7 @@ This is a social network web application API where users can share their thought
 - [Testing](#testing)
 - [License](#license)
 - [Questions](#questions)
+- [Video Walkthrough](#video-walkthrough)
 
 ## Installation
 1. Clone the repository:
@@ -133,4 +134,7 @@ To test the application, you can use tools like Insomnia, Postman, or cURL to ma
 This project is licensed under the MIT License.
 
 ## Questions
-If you have any questions about the project, please open an issue or contact me directly at [your-email@example.com](mailto:your-email@example.com). You can find more of my work on my [GitHub profile](https://github.com/your-username).
+If you have any questions about the project, please open an issue or contact me directly at [dannylkramer@icloud.com](mailto:dannylkramer@icloud.com). You can find more of my work on my [GitHub profile](https://github.com/dannylkramer).
+
+## Video Walkthrough
+Please click this link for a thorough walkthrough video of the application: [here](https://drive.google.com/file/d/1uqe1oiIb9BYu_MUQRAcBN8hWzcDaXFvj/view)
